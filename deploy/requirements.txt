@@ -1,0 +1,5 @@
+Flask
+gensim
+sklearn
+pymystem3
+numpy
